@@ -39,11 +39,6 @@ Data engineering workflows · Scalable backend systems · Applied data science
 
 ---
 
-If you want next:
-
-* a **badge/icon version**
-* a **super-minimal (ultra-clean) version**
-* a **SWE-only** or **Data-focused** variant
 
 
 
